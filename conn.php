@@ -1,8 +1,8 @@
 <?php
 // Database connection parameters
 $servername = "localhost";
-$username = "usman";
-$password = "1234";
+$username = "root";
+$password = "";
 $database = "reports";
 
 // Create connection
